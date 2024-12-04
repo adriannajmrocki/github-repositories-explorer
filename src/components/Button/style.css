@@ -1,0 +1,16 @@
+.button {
+  padding: 10px;
+  background-color: #2d9bd7;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+}
+
+.button:hover {
+  opacity: 0.9;
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

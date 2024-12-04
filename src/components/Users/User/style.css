@@ -1,0 +1,33 @@
+.user-tab {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.user-data {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.user-name {
+  margin: 0;
+  font-weight: 500;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.icon {
+  transition: transform 0.3s ease-in-out;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.icon-rotate {
+  transform: rotate(180deg);
+}

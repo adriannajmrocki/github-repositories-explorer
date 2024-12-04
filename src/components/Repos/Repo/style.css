@@ -1,0 +1,35 @@
+.repo {
+  min-height: 120px;
+  padding: 12px 10px;
+  background-color: #dcdcdc;
+}
+
+.repo {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.description {
+  margin: 6px 0 0;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.stars {
+  display: flex;
+  gap: 8px;
+}
+
+.stars-count {
+  margin: 0;
+  top: 0;
+}

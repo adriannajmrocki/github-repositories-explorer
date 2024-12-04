@@ -1,0 +1,21 @@
+.repos {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 16px;
+}
+
+.info-text {
+  margin: 0;
+  font-weight: 600;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.color-gray {
+  color: #808080;
+}
+
+.color-red {
+  color: #d21404;
+}
