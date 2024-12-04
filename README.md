@@ -26,21 +26,21 @@ Github Repositories Explorer is a web application that allows users to search fo
 
 ## Installation and usage
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/adriannajmrocki/github-repositories-explorer.git
-  ```
+```bash
+git clone https://github.com/adriannajmrocki/github-repositories-explorer.git
+```
 2. Navigate to the project directory:
-   ```bash
-   cd github-repositories-explorer
-   ```
+```bash
+cd github-repositories-explorer
+```
 3. Install the dependencies using npm:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 4. Start the development server:
-  ```bash
-  npm start
-  ```
+```bash
+npm start
+```
 The application will be available at http://localhost:3000.
 
 ---
